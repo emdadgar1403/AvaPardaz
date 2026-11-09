@@ -1,0 +1,6 @@
+{
+  "name": "آواپرداز | AvaPardaz",
+  "description": "استودیوی هوشمند و آفلاین تولید محتوای صوتی و تبدیل متن فارسی به گفتار",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">آواپرداز</string>
+    <string name="app_subtitle">استودیوی هوشمند تولید محتوای صوتی</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">خانه</string>
+    <string name="nav_generate">تولید صوت</string>
+    <string name="nav_projects">پروژه‌های من</string>
+    <string name="nav_models">مدل‌ها</string>
+    <string name="nav_settings">تنظیمات</string>
+
+    <!-- Home -->
+    <string name="home_hero_title">استودیوی صوت آفلاین</string>
+    <string name="home_hero_desc">تبدیل هوشمند متن فارسی به گفتار با بالاترین کیفیت و حفظ حریم خصوصی</string>
+    <string name="home_new_project">تولید صوت جدید</string>
+    <string name="home_recent_projects">آخرین پروژه‌ها</string>
+    <string name="home_engines_status">وضعیت موتورهای صوتی</string>
+    <string name="home_quick_models">مدیریت مدل‌ها</string>
+
+    <!-- Generation -->
+    <string name="gen_text_hint">متن فارسی خود را اینجا بنویسید یا جای‌گذاری کنید…</string>
+    <string name="gen_words_count">کلمات: %1$d</string>
+    <string name="gen_chars_count">نویسه‌ها: %1$d</string>
+    <string name="gen_engine_select">انتخاب موتور صوتی</string>
+    <string name="gen_voice_select">انتخاب صدای گوینده</string>
+    <string name="gen_speed">سرعت گفتار</string>
+    <string name="gen_pitch">زیر و بمی صدا (Pitch)</string>
+    <string name="gen_smart_pause">مکث هوشمند علائم نگارشی</string>
+    <string name="gen_pause_comma">مکث کاما (میلی‌ثانیه)</string>
+    <string name="gen_pause_period">مکث نقطه (میلی‌ثانیه)</string>
+    <string name="gen_pause_paragraph">مکث پاراگراف (میلی‌ثانیه)</string>
+    <string name="gen_emotion_tags">برچسب‌های احساسی و لحن</string>
+    <string name="gen_advanced_settings">تنظیمات پیشرفته مهندسی صوت</string>
+    <string name="gen_start">شروع تولید صوت</string>
+    <string name="gen_stop">توقف فرایند</string>
+
+    <!-- Projects -->
+    <string name="projects_title">پروژه‌های صوتی ذخیره‌شده</string>
+    <string name="project_empty">هنوز هیچ پروژه‌ای ایجاد نشده است.</string>
+    <string name="project_clone">ساخت کپی مستقل</string>
+    <string name="project_export_json">خروجی JSON</string>
+    <string name="project_share">اشتراک‌گذاری صوت</string>
+    <string name="project_delete">حذف پروژه</string>
+    <string name="project_delete_confirm">آیا از حذف این پروژه و فایل صوتی آن اطمینان دارید؟</string>
+
+    <!-- Engine & Models -->
+    <string name="engine_voice_title">موتور Voice Engine (خانواده Piper, VITS, MMS)</string>
+    <string name="engine_kokoro_title">موتور Kokoro Engine (معماری Kokoro v0.19)</string>
+    <string name="engine_status_stage2">اتصال در مرحله بعد (تعریف قرارداد فنی)</string>
+</resources>
